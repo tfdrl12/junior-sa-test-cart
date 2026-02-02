@@ -12,15 +12,17 @@
   1) пример REST API запроса для экрана «Выберите магазин»,
   2) пример JSON ответа (по макету),
   3) ссылка для перехода на внешний ресурс при клике на карточку магазина.
-- [docs/task3_push_architecture.md](docs/task3_push_architecture.md) — документ по **Заданию 3: Архитектура PUSH**.
+- [docs/task3_push_architecture.md](docs/task3_push_architecture.md) — документ по **Заданию 3: Архитектура PUSH**:
+  1) компоненты и потоки,
+  2) упрощённая блок-схема,
+  3) сценарии и вопросы для уточнения.
 
 ## Как открыть
 Достаточно открыть файлы прямо в GitHub:
 
-[docs/task1_cart_requirements_analysis.md](docs/task1_cart_requirements_analysis.md).
-[docs/task2_partner_stores_api.md](docs/task2_partner_stores_api.md).
-[docs/task3_push_architecture.md](docs/task3_push_architecture.md).
-
+- [docs/task1_cart_requirements_analysis.md](docs/task1_cart_requirements_analysis.md)
+- [docs/task2_partner_stores_api.md](docs/task2_partner_stores_api.md)
+- [docs/task3_push_notifications_architecture.md](docs/task3_push_architecture.md)
 
 ## Самопроверка перед отправкой
 
