@@ -4,14 +4,14 @@
 
 ## Что внутри
 
-- `docs/task1_cart_requirements_analysis.md` — основной документ с:
+- [docs/task1_cart_requirements_analysis.md](docs/task1_cart_requirements_analysis.md) — основной документ с:
   1) перечнем логических противоречий/недочётов исходного фрагмента,
   2) предложенной исправленной версией фрагмента ТЗ (логически завершённой),
   3) списком уточняющих вопросов к продукт-менеджеру/заказчику.
 
 ## Как открыть
 
-Достаточно открыть файл `docs/task1_cart_requirements_analysis.md` прямо в GitHub.
+Достаточно открыть файл [docs/task1_cart_requirements_analysis.md](docs/task1_cart_requirements_analysis.md) прямо в GitHub.
 
 ## Самопроверка перед отправкой
 
